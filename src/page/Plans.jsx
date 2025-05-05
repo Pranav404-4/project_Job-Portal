@@ -1,6 +1,6 @@
 import React from 'react';
 import plans from '../components/PlanDetails';
-import { Navbar } from '../Components/navbar';
+import { Navbar } from '../components/Navbar';
 
 const Plans = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import jobData from '../components/JobData' 
-import { Navbar } from '../Components/navbar'
+import { Navbar } from '../components/Navbar'
 
 const JobDetails = () => {
   const { jobId } = useParams()
