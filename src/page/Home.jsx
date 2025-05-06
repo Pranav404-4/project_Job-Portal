@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className="bg-gray-900 min-h-screen p-6 text-white">
       <Navbar setSearchQuery={setSearchQuery} />
-      <h1 className="text-3xl font-bold">Welcome to the Job Portal</h1>
+      <h1 className="text-3xl font-bold">Welcome to the Job</h1>
       <p className="mt-2 text-gray-300 text-lg font-medium tracking-wide">
         Explore top job opportunities tailored for you and take the next step in your career journey.
       </p>
